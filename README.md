@@ -4,9 +4,9 @@
 - 💬 Ask me about anything and I'll see if I can help, no promises.
 
 ## Examples of Work
-[[https://github.com/JCStaples/SW-EAW|JCStaples/SW-EAW]] - A python script to change unit values in the game Star Wars: Empire at War
-[[https://github.com/JCStaples/AMPTemplates|JCStaples/AMPTemplates]] - A template for [[https://cubecoders.com/AMP|AMP Game Server's]] Squad Server
-[[https://github.com/JCStaples/device-id-lookup|JCStaples/device-id-lookup]] - A python script for performing USB Vendor and Device ID lookups
+[JCStaples/SW-EAW](https://github.com/JCStaples/SW-EAW) - A python script to change unit values in the game Star Wars: Empire at War
+[JCStaples/AMPTemplates](https://github.com/JCStaples/AMPTemplates) - A template for [[https://cubecoders.com/AMP|AMP Game Server's]] Squad Server
+[JCStaples/device-id-lookup](https://github.com/JCStaples/device-id-lookup) - A python script for performing USB Vendor and Device ID lookups
 
 <!---
 JCStaples/JCStaples is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
