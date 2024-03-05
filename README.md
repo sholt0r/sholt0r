@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @JCStaples
+# 👋 Hi, I’m @JCStaples
 - 👀 I’m interested in Linux, PowerShell, Python and much much more.
-- 🌱 I’m currently learning Python, Swift and PowerShell.
-- 💞️ I’m looking to collaborate on some easy starter projects.
+- 🌱 I’m currently learning Python and attempting some Rust.
+- 💬 Ask me about anything and I'll see if I can help, no promises.
+
+## Examples of Work
+[[https://github.com/JCStaples/SW-EAW|JCStaples/SW-EAW]] - A python script to change unit values in the game Star Wars: Empire at War
+[[https://github.com/JCStaples/AMPTemplates|JCStaples/AMPTemplates]] - A template for [[https://cubecoders.com/AMP|AMP Game Server's]] Squad Server
+[[https://github.com/JCStaples/device-id-lookup|JCStaples/device-id-lookup]] - A python script for performing USB Vendor and Device ID lookups
 
 <!---
 JCStaples/JCStaples is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
