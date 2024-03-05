@@ -5,7 +5,9 @@
 
 ## Examples of Work
 [JCStaples/SW-EAW](https://github.com/JCStaples/SW-EAW) - A python script to change unit values in the game Star Wars: Empire at War
+
 [JCStaples/AMPTemplates](https://github.com/JCStaples/AMPTemplates) - A template for [[https://cubecoders.com/AMP|AMP Game Server's]] Squad Server
+
 [JCStaples/device-id-lookup](https://github.com/JCStaples/device-id-lookup) - A python script for performing USB Vendor and Device ID lookups
 
 <!---
