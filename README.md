@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @sholt0r
 - 👀 I’m interested in Linux, PowerShell, Python and much much more.
-- 🌱 I’m currently learning Python and attempting some Rust.
-- 💬 Ask me about anything and I'll see if I can help, no promises.
+- 🌱 I’m currently learning Python and attempting some Go.
 
 ## Examples of Work
 [sholt0r/SW-EAW](https://github.com/sholt0r/SW-EAW) - A python script to change unit values in the game Star Wars: Empire at War
